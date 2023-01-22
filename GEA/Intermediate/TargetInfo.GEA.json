@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "GEA",
+			"Path": "E:\\Learning Projects\\Unreal\\GEA\\Source\\GEA.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "GEAEditor",
+			"Path": "E:\\Learning Projects\\Unreal\\GEA\\Source\\GEAEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

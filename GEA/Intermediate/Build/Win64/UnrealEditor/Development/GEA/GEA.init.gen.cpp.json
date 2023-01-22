@@ -1,0 +1,13 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "e:\\learning projects\\unreal\\gea\\intermediate\\build\\win64\\unrealeditor\\inc\\gea\\gea.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "e:\\learning projects\\unreal\\gea\\intermediate\\build\\win64\\geaeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "e:\\learning projects\\unreal\\gea\\intermediate\\build\\win64\\unrealeditor\\development\\gea\\definitions.gea.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

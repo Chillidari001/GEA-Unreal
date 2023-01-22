@@ -1,0 +1,27 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "e:\\learning projects\\unreal\\gea\\source\\gea\\geagamemode.cpp",
+        "ProvidedModule": "",
+        "PCH": "e:\\learning projects\\unreal\\gea\\intermediate\\build\\win64\\geaeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "e:\\learning projects\\unreal\\gea\\intermediate\\build\\win64\\unrealeditor\\development\\gea\\definitions.gea.h",
+            "e:\\learning projects\\unreal\\gea\\source\\gea\\geagamemode.h",
+            "e:\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "e:\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "e:\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\serverstatreplicator.generated.h",
+            "e:\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\gamemodebase.generated.h",
+            "e:\\learning projects\\unreal\\gea\\intermediate\\build\\win64\\unrealeditor\\inc\\gea\\geagamemode.generated.h",
+            "e:\\learning projects\\unreal\\gea\\source\\gea\\geacharacter.h",
+            "e:\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\character.h",
+            "e:\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\charactermovementreplication.h",
+            "e:\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\charactermovementreplication.generated.h",
+            "e:\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\rootmotionsource.h",
+            "e:\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\rootmotionsource.generated.h",
+            "e:\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\character.generated.h",
+            "e:\\learning projects\\unreal\\gea\\intermediate\\build\\win64\\unrealeditor\\inc\\gea\\geacharacter.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
